@@ -1,0 +1,5 @@
+#calculator{
+    border : 2px solid black;
+    width :500px;
+    padding : 10px;
+}
